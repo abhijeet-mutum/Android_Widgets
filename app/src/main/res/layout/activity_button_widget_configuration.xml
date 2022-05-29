@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:orientation="vertical">
+
+    <EditText
+        android:id="@+id/et_button_widget_name"
+        style="@style/BaseEditTextStyle"
+        tools:ignore="Autofill,LabelFor" />
+
+    <Button
+        android:id="@+id/b_confirm"
+        style="@style/BaseButtonStyle"
+        android:layout_marginTop="@dimen/dimen_small"
+        android:text="@string/confirm" />
+
+</LinearLayout>

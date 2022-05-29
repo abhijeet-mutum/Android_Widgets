@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--    margins or paddings standards -->
+    <dimen name="dimen_xx_small">2dp</dimen>
+    <dimen name="dimen_x_small">4dp</dimen>
+    <dimen name="dimen_small">6dp</dimen>
+    <dimen name="dimen_medium">8dp</dimen>
+    <dimen name="dimen_medium_large">12dp</dimen>
+    <dimen name="dimen_medium_x_large">14dp</dimen>
+    <dimen name="dimen_large">16dp</dimen>
+    <dimen name="dimen_x_large">18dp</dimen>
+    <dimen name="dimen_xx_large">20dp</dimen>
+    <dimen name="dimen_xxx_large">22dp</dimen>
+
+    <!--    text standard sizes -->
+    <dimen name="text_size_x_small">6sp</dimen>
+    <dimen name="text_size_small">8sp</dimen>
+    <dimen name="text_size_primary">14sp</dimen>
+    <dimen name="text_size_secondary">12sp</dimen>
+    <dimen name="text_size_title_primary">16sp</dimen>
+    <dimen name="text_size_title_secondary">14sp</dimen>
+
+    <dimen name="button_widget_min_width">80dp</dimen>
+    <dimen name="button_widget_min_height">40dp</dimen>
+</resources>

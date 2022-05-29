@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<appwidget-provider xmlns:android="http://schemas.android.com/apk/res/android"
+    android:configure="com.paizuri.widgetapp.app_widget.configuration_activity.ActivityButtonWidgetConfiguration"
+    android:initialLayout="@layout/layout_button_widget"
+    android:minWidth="@dimen/button_widget_min_width"
+    android:minHeight="@dimen/button_widget_min_height"
+    android:minResizeWidth="@dimen/button_widget_min_height"
+    android:previewImage="@drawable/press"
+    android:resizeMode="horizontal"
+    android:updatePeriodMillis="0"
+    android:widgetCategory="home_screen">
+
+</appwidget-provider>
